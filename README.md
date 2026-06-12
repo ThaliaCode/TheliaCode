@@ -38,3 +38,4 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo web para crecer en
 
 - LinkedIn: https://www.linkedin.com/in/thalia-villar-47b520338/?skipRedirect=true
 - GitHub: https://github.com/TheliaCode
+- Discord: villaralejo_38950
